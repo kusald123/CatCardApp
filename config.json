@@ -1,0 +1,13 @@
+{
+    "CONNECTION": {
+        "BASE" : "https://cataas.com",
+        "ENCODING": {
+            "BINARY": "binary",
+            "BASE64": "base64"
+        }
+    },
+    "FILE": {
+        "NAME": "cat-card.jpeg",
+        "MIME": "image/jpeg"
+    }
+}
